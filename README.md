@@ -6,9 +6,4 @@
 
 </table>
 
----
-
 ✨ **Essas estatísticas incluem contribuições em repositórios privados.**
-
-📌 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/daniel-campos-soares-b47426238/) ou dê uma olhada em meus projetos no [GitHub](https://github.com/daniSoares08)! 👋
-
