@@ -1,10 +1,7 @@
 # 👨‍💻 Olá, eu sou Daniel Soares!
 
 ### 💻 Linguagens mais usadas
-
-#### 🔹 Layout Compacto (recomendado)
 ![Linguagens mais usadas por Daniel Soares](https://dani-soares08.vercel.app/api/top-langs/?username=daniSoares08&layout=compact&langs_count=10&theme=radical&count_private=true&size_weight=0.5&count_weight=0.5)
-
 
 ✨ **Essas estatísticas incluem contribuições em repositórios privados.**
 
