@@ -1,6 +1,6 @@
 <h1 align="center">Daniel Campos Soares 👨‍💻⚡&nbsp;</h1>
 <p align="center">
-  <em>Desenvolvedor Full‑Stack • Estudante de Eng. da Computação • Formatura em 12/2026</em>
+  <em>Desenvolvedor Software Embarcado • Estudante de Eng. da Computação • Formatura em 12/2026</em>
 </p>
 
 ## 🚀 Sobre Mim
